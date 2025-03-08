@@ -23,3 +23,10 @@ git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 cd nombre-del-repositorio
 npm install
 npm start
+```
+---
+📫 Cómo contactarme
+
+- Correo: [[cuyssi@hotmail.com](mailto:cuyssi@hotmail.com)]
+- LinkedIn: [Ana] ([https://www.linkedin.com/in/ana-castro-a476b8346/](https://www.linkedin.com/in/ana-castro-a476b8346/))
+---
